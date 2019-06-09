@@ -1,5 +1,6 @@
-# 内网渗透知识点总结
+# 内网渗透知识点总结  
 前期已经利用相关漏洞getshell
+(从零学习内网渗透)https://blog.csdn.net/Fly_hps/article/details/80780989
 ## 信息收集
 ```   
     query user || qwinsta 查看当前在线用户
